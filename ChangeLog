@@ -1,0 +1,17 @@
+commit e4b0f4d7d8164f85d508c0bc8fc013c6fcd0ddd1
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Sat Aug 10 16:08:47 2024 +0300
+
+    chore(CONTRIBUTING): added
+
+commit 2a0549bc477929561e098cfda4b1e5e3c9c67c3b
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Fri Aug 9 20:41:38 2024 +0300
+
+    chore(COPYING): AGPL
+
+commit 827ba50829e8937c7a80ec46fc6b71aba0a9e238
+Author: mb6ockatf <mdddmmmm@yandex.ru>
+Date:   Thu Aug 1 23:17:46 2024 +0300
+
+    feat: initial commit
